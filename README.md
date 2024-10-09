@@ -15,4 +15,4 @@ I developed a system to manage data for a pharmaceutical company’s three produ
 - Pseudo-code for cross-certification and search functions
 - C code demonstrating the tasks
 
-**Grade Received**: 98%
+**Grade Received: 98%**
