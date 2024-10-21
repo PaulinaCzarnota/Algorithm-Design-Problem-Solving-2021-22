@@ -1,6 +1,6 @@
 This repository contains my CA assignment for the Algorithm & Design & Problem Solving module in the first year of Computer Science at TU Dublin.
 
-## What I Did
+## Overview
 I developed a system to manage data for a pharmaceutical company’s three production lines. My tasks included:
 
 1. **Data Merge and Sort**: Combined team lists and sorted them by surname using an optimized merge sort, enhanced by an elementary sort.
